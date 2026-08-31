@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "title": "Midnight Drive",
+    "artist": "Nova Lane",
+    "album": "Neon Roads",
+    "duration_seconds": 214
+  },
+  {
+    "id": 2,
+    "title": "Ocean Lights",
+    "artist": "Aria West",
+    "album": "Blue Horizon",
+    "duration_seconds": 198
+  },
+  {
+    "id": 3,
+    "title": "City Echoes",
+    "artist": "The Signals",
+    "album": "After Hours",
+    "duration_seconds": 242
+  },
+  {
+    "id": 4,
+    "title": "Golden Hour",
+    "artist": "Maya Reed",
+    "album": "Sunset Stories",
+    "duration_seconds": 221
+  },
+  {
+    "id": 5,
+    "title": "Static Dreams",
+    "artist": "Echo Park",
+    "album": "Frequency",
+    "duration_seconds": 205
+  },
+  {
+    "id": 6,
+    "title": "Paper Planes",
+    "artist": "Leo Hart",
+    "album": "Skyline",
+    "duration_seconds": 233
+  },
+  {
+    "id": 7,
+    "title": "Afterglow",
+    "artist": "Iris Bloom",
+    "album": "Night Colors",
+    "duration_seconds": 217
+  },
+  {
+    "id": 8,
+    "title": "Parallel Lines",
+    "artist": "Northbound",
+    "album": "Coordinates",
+    "duration_seconds": 256
+  },
+  {
+    "id": 9,
+    "title": "Slow Motion",
+    "artist": "June Rivers",
+    "album": "Frames",
+    "duration_seconds": 201
+  },
+  {
+    "id": 10,
+    "title": "Last Signal",
+    "artist": "Orbit Seven",
+    "album": "Transmission",
+    "duration_seconds": 229
+  }
+]
